@@ -1,0 +1,35 @@
+{
+  "name": "console-substitute",
+  "version": "0.1.0",
+  "description": "Polyfill for the String Substitutions by console.",
+  "keywords": [
+    "polyfill",
+    "console",
+    "string-substitutions",
+    "console.log",
+    "console.error",
+    "android",
+    "log",
+    "debug",
+    "browser",
+    "output"
+  ],
+  "main": "console-substitute.min.js",
+  "homepage": "http://anseki.github.io/console-substitute/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/console-substitute.git"
+  },
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT",
+  "authors": [
+    "anseki <AnSeki.aff@gmail.com>"
+  ]
+}
