@@ -15,6 +15,12 @@
     "browser",
     "output"
   ],
+  "main": "console-substitute.min.js",
+  "files": [
+    "console-substitute.min.js",
+    "bower.json",
+    "LICENSE-MIT"
+  ],
   "homepage": "https://github.com/anseki/console-substitute/",
   "repository": {
     "type": "git",
