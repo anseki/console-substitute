@@ -2,7 +2,7 @@
  * consoleSubstitute
  * https://github.com/anseki/console-substitute
  *
- * Copyright (c) 2017 anseki
+ * Copyright (c) 2018 anseki
  * Licensed under the MIT license.
  */
 
